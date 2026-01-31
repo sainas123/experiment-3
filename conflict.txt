@@ -1,1 +1,2 @@
 This line is edited again in MAIN branch
+This line is from CONFLICT branch
